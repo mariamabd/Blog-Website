@@ -1,0 +1,28 @@
+body {
+  background-image: url("blueWood.jpeg");
+}
+
+body {
+  color:white;
+  text-align: left;
+  font-size:20px;
+}
+
+h1 {
+  text-align: left;
+  font-size:30px;
+}
+
+.btn {
+}
+
+  h2 {
+    color: gold;
+    text-align: left;
+    font-size:33px;
+  }
+
+  a {
+      color: white;
+      text-decoration: none;
+  }
