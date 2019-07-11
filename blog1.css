@@ -1,16 +1,16 @@
 body {
-  background-image: url("blueWood.jpeg");
+  background-image: url("https://images.pexels.com/photos/131683/pexels-photo-131683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
 
 body {
   color:white;
-  text-align: left;
+  text-align: center;
   font-size:20px;
 }
 
 h1 {
-  text-align: left;
-  font-size:30px;
+  text-align: center;
+  font-size:40px;
 }
 
 .btn {
@@ -18,11 +18,11 @@ h1 {
 
   h2 {
     color: gold;
-    text-align: left;
+    text-align: center;
     font-size:33px;
   }
 
   a {
       color: white;
-      text-decoration: none;
+      text-decoration: none
   }
